@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DsiTGCG3V6PMSbX0VevEaw517oe5KO9jW99F9K6MS1ssGRc7W7+cek/1KkearF5BwYwa5r1DBv7HEiFJMPsLpw==",
+  "success": true,
+  "projectFilePath": "C:\\paddy\\research\\azure\\HelloAzure\\HelloAzure.BusinessLogic\\HelloAzure.BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paddy.pillai\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\paddy.pillai\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

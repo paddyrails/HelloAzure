@@ -1,0 +1,12 @@
+C:\paddy\research\azure\HelloAzure\HelloAzure.BusinessLogic\bin\output\HelloAzure.BusinessLogic.deps.json
+C:\paddy\research\azure\HelloAzure\HelloAzure.BusinessLogic\bin\output\HelloAzure.BusinessLogic.dll
+C:\paddy\research\azure\HelloAzure\HelloAzure.BusinessLogic\bin\output\HelloAzure.BusinessLogic.pdb
+C:\paddy\research\azure\HelloAzure\HelloAzure.BusinessLogic\obj\Debug\netstandard2.0\HelloAzure.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\paddy\research\azure\HelloAzure\HelloAzure.BusinessLogic\obj\Debug\netstandard2.0\HelloAzure.BusinessLogic.AssemblyInfoInputs.cache
+C:\paddy\research\azure\HelloAzure\HelloAzure.BusinessLogic\obj\Debug\netstandard2.0\HelloAzure.BusinessLogic.AssemblyInfo.cs
+C:\paddy\research\azure\HelloAzure\HelloAzure.BusinessLogic\obj\Debug\netstandard2.0\HelloAzure.BusinessLogic.dll
+C:\paddy\research\azure\HelloAzure\HelloAzure.BusinessLogic\obj\Debug\netstandard2.0\HelloAzure.BusinessLogic.pdb
+C:\paddy\research\azure\HelloAzure\HelloAzure.Functions\bin\output\HelloAzure.BusinessLogic.deps.json
+C:\paddy\research\azure\HelloAzure\HelloAzure.Functions\bin\output\HelloAzure.BusinessLogic.dll
+C:\paddy\research\azure\HelloAzure\HelloAzure.Functions\bin\output\HelloAzure.BusinessLogic.pdb
+C:\paddy\research\azure\HelloAzure\HelloAzure.BusinessLogic\obj\Debug\netstandard2.0\HelloAzure.BusinessLogic.csprojAssemblyReference.cache
