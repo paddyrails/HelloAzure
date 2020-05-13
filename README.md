@@ -1,10 +1,9 @@
 # HelloAzure
 ## create new folder
 cd ~/code/HelloAzure/
-##new solution
+## new solution
 dotnet new solution -n HelloAzure -o
-
-##new Azure Function project
+## new Azure Function project
 func init HelloAzure.Functions
 
 ##Add to solution
