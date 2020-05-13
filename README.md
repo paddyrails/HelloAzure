@@ -1,5 +1,5 @@
 # HelloAzure
-##create new folder
+## create new folder
 cd ~/code/HelloAzure/
 ##new solution
 dotnet new solution -n HelloAzure -o
