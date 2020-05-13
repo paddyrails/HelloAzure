@@ -6,7 +6,7 @@ namespace HelloAzure.BusinessLogic
     {
         public string GetGreeting(string name)
         {
-            return $"Hello, {name}, what can do for you!";
+            return $"Hello, {name}, what can do for you!!";
         }
     }
 }
