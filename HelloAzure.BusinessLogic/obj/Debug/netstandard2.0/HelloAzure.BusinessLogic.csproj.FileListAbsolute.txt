@@ -10,3 +10,6 @@ C:\paddy\research\azure\HelloAzure\HelloAzure.Functions\bin\output\HelloAzure.Bu
 C:\paddy\research\azure\HelloAzure\HelloAzure.Functions\bin\output\HelloAzure.BusinessLogic.dll
 C:\paddy\research\azure\HelloAzure\HelloAzure.Functions\bin\output\HelloAzure.BusinessLogic.pdb
 C:\paddy\research\azure\HelloAzure\HelloAzure.BusinessLogic\obj\Debug\netstandard2.0\HelloAzure.BusinessLogic.csprojAssemblyReference.cache
+C:\paddy\research\azure\HelloAzure\HelloAzure.Functions\bin\publish\HelloAzure.BusinessLogic.deps.json
+C:\paddy\research\azure\HelloAzure\HelloAzure.Functions\bin\publish\HelloAzure.BusinessLogic.dll
+C:\paddy\research\azure\HelloAzure\HelloAzure.Functions\bin\publish\HelloAzure.BusinessLogic.pdb
